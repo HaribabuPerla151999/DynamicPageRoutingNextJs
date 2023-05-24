@@ -1,0 +1,2 @@
+# DynamicPageRoutingNextJs
+Dynamic Page Routin
